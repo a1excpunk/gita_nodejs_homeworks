@@ -1,0 +1,26 @@
+{
+  "name": "gita_nodejs_homeworks",
+  "version": "1.0.0",
+  "description": "homewroks for gita nodeJS course",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1excpunk/gita_nodejs_homeworks.git"
+  },
+  "author": "aleksandra sauri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1excpunk/gita_nodejs_homeworks/issues"
+  },
+  "homepage": "https://github.com/a1excpunk/gita_nodejs_homeworks#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  }
+}
